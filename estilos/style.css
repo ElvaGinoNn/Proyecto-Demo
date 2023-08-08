@@ -1,0 +1,23 @@
+h1
+{
+    font-family: 'Didact Gothic', sans-serif;
+    font-size: 50px;
+}
+h2
+{
+    font-family: 'Prata', serif;
+}
+body
+{
+    background-color:#add6af;
+}
+p
+{
+    font-family: 'Libre Baskerville', serif;
+    font-size: 24px;
+}
+iframe
+{
+    border-color: cadetblue;
+    border:30px;
+}
